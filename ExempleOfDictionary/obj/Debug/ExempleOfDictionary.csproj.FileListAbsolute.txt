@@ -1,0 +1,13 @@
+C:\Shahin\C#\Exemple\ExempleOfDictionary\bin\Debug\ExempleOfDictionary.exe.config
+C:\Shahin\C#\Exemple\ExempleOfDictionary\bin\Debug\ExempleOfDictionary.exe
+C:\Shahin\C#\Exemple\ExempleOfDictionary\bin\Debug\ExempleOfDictionary.pdb
+C:\Shahin\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.csprojAssemblyReference.cache
+C:\Shahin\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.csproj.CoreCompileInputs.cache
+C:\Shahin\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.exe
+C:\Shahin\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.pdb
+D:\C#\Exemple\ExempleOfDictionary\bin\Debug\ExempleOfDictionary.exe.config
+D:\C#\Exemple\ExempleOfDictionary\bin\Debug\ExempleOfDictionary.exe
+D:\C#\Exemple\ExempleOfDictionary\bin\Debug\ExempleOfDictionary.pdb
+D:\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.exe
+D:\C#\Exemple\ExempleOfDictionary\obj\Debug\ExempleOfDictionary.pdb

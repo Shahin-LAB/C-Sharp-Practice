@@ -1,0 +1,7 @@
+D:\C#\Exemple\EricssonTest\obj\Debug\EricssonTest.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\EricssonTest\bin\Debug\EricssonTest.exe.config
+D:\C#\Exemple\EricssonTest\bin\Debug\EricssonTest.exe
+D:\C#\Exemple\EricssonTest\bin\Debug\EricssonTest.pdb
+D:\C#\Exemple\EricssonTest\obj\Debug\EricssonTest.exe
+D:\C#\Exemple\EricssonTest\obj\Debug\EricssonTest.pdb
+D:\C#\Exemple\EricssonTest\obj\Debug\EricssonTest.csprojAssemblyReference.cache

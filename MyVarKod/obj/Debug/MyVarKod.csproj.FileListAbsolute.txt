@@ -1,0 +1,7 @@
+D:\C#\Exemple\MyVarKod\bin\Debug\MyVarKod.exe.config
+D:\C#\Exemple\MyVarKod\bin\Debug\MyVarKod.exe
+D:\C#\Exemple\MyVarKod\bin\Debug\MyVarKod.pdb
+D:\C#\Exemple\MyVarKod\obj\Debug\MyVarKod.csprojAssemblyReference.cache
+D:\C#\Exemple\MyVarKod\obj\Debug\MyVarKod.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\MyVarKod\obj\Debug\MyVarKod.exe
+D:\C#\Exemple\MyVarKod\obj\Debug\MyVarKod.pdb

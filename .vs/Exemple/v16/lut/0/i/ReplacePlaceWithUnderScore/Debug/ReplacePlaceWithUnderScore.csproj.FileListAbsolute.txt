@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ReplacePlaceWithUnderScore\bin\Debug\ReplacePlaceWithUnderScore.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ReplacePlaceWithUnderScore\bin\Debug\ReplacePlaceWithUnderScore.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ReplacePlaceWithUnderScore\Debug\ReplacePlaceWithUnderScore.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ReplacePlaceWithUnderScore\Debug\ReplacePlaceWithUnderScore.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ReplacePlaceWithUnderScore\Debug\ReplacePlaceWithUnderScore.exe

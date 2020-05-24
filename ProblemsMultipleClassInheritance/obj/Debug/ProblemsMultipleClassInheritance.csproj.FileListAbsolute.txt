@@ -1,0 +1,6 @@
+D:\C#\Exemple\ProblemsMultipleClassInheritance\obj\Debug\ProblemsMultipleClassInheritance.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\ProblemsMultipleClassInheritance\bin\Debug\ProblemsMultipleClassInheritance.exe.config
+D:\C#\Exemple\ProblemsMultipleClassInheritance\bin\Debug\ProblemsMultipleClassInheritance.exe
+D:\C#\Exemple\ProblemsMultipleClassInheritance\bin\Debug\ProblemsMultipleClassInheritance.pdb
+D:\C#\Exemple\ProblemsMultipleClassInheritance\obj\Debug\ProblemsMultipleClassInheritance.exe
+D:\C#\Exemple\ProblemsMultipleClassInheritance\obj\Debug\ProblemsMultipleClassInheritance.pdb

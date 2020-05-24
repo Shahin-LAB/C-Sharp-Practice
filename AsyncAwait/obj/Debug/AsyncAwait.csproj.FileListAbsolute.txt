@@ -1,0 +1,14 @@
+C:\Shahin\C#\Exemple\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Shahin\C#\Exemple\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Shahin\C#\Exemple\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Shahin\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Shahin\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Shahin\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Shahin\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+D:\C#\Exemple\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\C#\Exemple\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\C#\Exemple\AsyncAwait\bin\Debug\AsyncAwait.pdb
+D:\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.exe
+D:\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.pdb
+D:\C#\Exemple\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.deps.json
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.runtimeconfig.json
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.runtimeconfig.dev.json
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.dll
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.AssemblyInfoInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.AssemblyInfo.cs
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.dll
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfManageMultithreading\Debug\netcoreapp2.1\ExempleOfManageMultithreading.genruntimeconfig.cache

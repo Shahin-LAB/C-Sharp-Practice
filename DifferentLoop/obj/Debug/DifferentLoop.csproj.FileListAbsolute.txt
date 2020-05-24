@@ -1,0 +1,7 @@
+D:\C#\Exemple\DifferentLoop\bin\Debug\DifferentLoop.exe.config
+D:\C#\Exemple\DifferentLoop\bin\Debug\DifferentLoop.exe
+D:\C#\Exemple\DifferentLoop\bin\Debug\DifferentLoop.pdb
+D:\C#\Exemple\DifferentLoop\obj\Debug\DifferentLoop.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\DifferentLoop\obj\Debug\DifferentLoop.exe
+D:\C#\Exemple\DifferentLoop\obj\Debug\DifferentLoop.pdb
+D:\C#\Exemple\DifferentLoop\obj\Debug\DifferentLoop.csprojAssemblyReference.cache

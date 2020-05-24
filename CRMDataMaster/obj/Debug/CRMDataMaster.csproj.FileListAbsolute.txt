@@ -1,0 +1,2 @@
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\CRMDataMaster\obj\Debug\CRMDataMaster.csprojAssemblyReference.cache
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\CRMDataMaster\obj\Debug\CRMDataMaster.csproj.CoreCompileInputs.cache

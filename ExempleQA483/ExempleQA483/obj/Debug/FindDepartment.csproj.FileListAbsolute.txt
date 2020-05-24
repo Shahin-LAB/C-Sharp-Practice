@@ -1,0 +1,13 @@
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\bin\Debug\FindDepartment.exe.config
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\bin\Debug\FindDepartment.exe
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\bin\Debug\FindDepartment.pdb
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.csprojAssemblyReference.cache
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.csproj.CoreCompileInputs.cache
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.exe
+C:\Users\shahin.rohman\Dropbox\Innofactor Share\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.pdb
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExersizeQA\FindDepartment\bin\Debug\FindDepartment.exe.config
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExersizeQA\FindDepartment\bin\Debug\FindDepartment.exe
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExersizeQA\FindDepartment\bin\Debug\FindDepartment.pdb
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.csproj.CoreCompileInputs.cache
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.exe
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExersizeQA\FindDepartment\obj\Debug\FindDepartment.pdb

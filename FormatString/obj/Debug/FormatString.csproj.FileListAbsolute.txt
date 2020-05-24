@@ -1,0 +1,13 @@
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\obj\Debug\FormatString.csprojAssemblyReference.cache
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\obj\Debug\FormatString.csproj.CoreCompileInputs.cache
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\bin\Debug\FormatString.exe.config
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\bin\Debug\FormatString.exe
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\bin\Debug\FormatString.pdb
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\obj\Debug\FormatString.exe
+C:\Users\Shahin\Dropbox\C#\Exemple\FormatString\obj\Debug\FormatString.pdb
+D:\C#\Exemple\FormatString\bin\Debug\FormatString.exe.config
+D:\C#\Exemple\FormatString\bin\Debug\FormatString.exe
+D:\C#\Exemple\FormatString\bin\Debug\FormatString.pdb
+D:\C#\Exemple\FormatString\obj\Debug\FormatString.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\FormatString\obj\Debug\FormatString.exe
+D:\C#\Exemple\FormatString\obj\Debug\FormatString.pdb

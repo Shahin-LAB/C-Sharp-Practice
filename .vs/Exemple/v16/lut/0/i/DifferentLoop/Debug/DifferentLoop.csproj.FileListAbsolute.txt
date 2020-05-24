@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\DifferentLoop\bin\Debug\DifferentLoop.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\DifferentLoop\bin\Debug\DifferentLoop.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DifferentLoop\Debug\DifferentLoop.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DifferentLoop\Debug\DifferentLoop.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DifferentLoop\Debug\DifferentLoop.exe

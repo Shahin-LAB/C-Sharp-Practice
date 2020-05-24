@@ -1,0 +1,6 @@
+D:\C#\Exemple\MutipelClassInheritanceUsingInterface\bin\Debug\MutipelClassInheritanceUsingInterface.exe.config
+D:\C#\Exemple\MutipelClassInheritanceUsingInterface\bin\Debug\MutipelClassInheritanceUsingInterface.exe
+D:\C#\Exemple\MutipelClassInheritanceUsingInterface\bin\Debug\MutipelClassInheritanceUsingInterface.pdb
+D:\C#\Exemple\MutipelClassInheritanceUsingInterface\obj\Debug\MutipelClassInheritanceUsingInterface.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\MutipelClassInheritanceUsingInterface\obj\Debug\MutipelClassInheritanceUsingInterface.exe
+D:\C#\Exemple\MutipelClassInheritanceUsingInterface\obj\Debug\MutipelClassInheritanceUsingInterface.pdb

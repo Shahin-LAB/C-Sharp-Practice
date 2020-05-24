@@ -1,0 +1,7 @@
+D:\C#\Exemple\ReplacePlaceWithUnderScore\bin\Debug\ReplacePlaceWithUnderScore.exe.config
+D:\C#\Exemple\ReplacePlaceWithUnderScore\bin\Debug\ReplacePlaceWithUnderScore.exe
+D:\C#\Exemple\ReplacePlaceWithUnderScore\bin\Debug\ReplacePlaceWithUnderScore.pdb
+D:\C#\Exemple\ReplacePlaceWithUnderScore\obj\Debug\ReplacePlaceWithUnderScore.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\ReplacePlaceWithUnderScore\obj\Debug\ReplacePlaceWithUnderScore.exe
+D:\C#\Exemple\ReplacePlaceWithUnderScore\obj\Debug\ReplacePlaceWithUnderScore.pdb
+D:\C#\Exemple\ReplacePlaceWithUnderScore\obj\Debug\ReplacePlaceWithUnderScore.csprojAssemblyReference.cache

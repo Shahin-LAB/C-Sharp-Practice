@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\MyVarKod\bin\Debug\MyVarKod.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\MyVarKod\bin\Debug\MyVarKod.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MyVarKod\Debug\MyVarKod.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MyVarKod\Debug\MyVarKod.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MyVarKod\Debug\MyVarKod.exe

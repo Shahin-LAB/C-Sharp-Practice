@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\FormatString\bin\Debug\FormatString.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\FormatString\bin\Debug\FormatString.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\FormatString\Debug\FormatString.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\FormatString\Debug\FormatString.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\FormatString\Debug\FormatString.exe

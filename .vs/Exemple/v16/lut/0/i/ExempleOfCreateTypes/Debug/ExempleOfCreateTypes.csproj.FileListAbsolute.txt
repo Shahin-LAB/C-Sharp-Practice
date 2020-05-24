@@ -1,0 +1,6 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfCreateTypes\bin\Debug\ExempleOfCreateTypes.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfCreateTypes\bin\Debug\ExempleOfCreateTypes.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfCreateTypes\Debug\ExempleOfCreateTypes.csprojAssemblyReference.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfCreateTypes\Debug\ExempleOfCreateTypes.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfCreateTypes\Debug\ExempleOfCreateTypes.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfCreateTypes\Debug\ExempleOfCreateTypes.exe

@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleQA483\ExempleQA483\bin\Debug\FindDepartment.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleQA483\ExempleQA483\bin\Debug\FindDepartment.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleQA483\Debug\ExempleQA483.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleQA483\Debug\ExempleQA483.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleQA483\Debug\FindDepartment.exe

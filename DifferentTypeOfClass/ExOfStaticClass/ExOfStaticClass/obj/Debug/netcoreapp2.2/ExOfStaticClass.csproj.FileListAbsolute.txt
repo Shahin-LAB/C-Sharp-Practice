@@ -1,0 +1,14 @@
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\bin\Debug\netcoreapp2.2\ExOfStaticClass.deps.json
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\bin\Debug\netcoreapp2.2\ExOfStaticClass.runtimeconfig.json
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\bin\Debug\netcoreapp2.2\ExOfStaticClass.runtimeconfig.dev.json
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\bin\Debug\netcoreapp2.2\ExOfStaticClass.dll
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\bin\Debug\netcoreapp2.2\ExOfStaticClass.pdb
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.csprojAssemblyReference.cache
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.AssemblyInfoInputs.cache
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.AssemblyInfo.cs
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.dll
+C:\Users\Shahin\Dropbox\Innofactor Share\Exam 70-483-Programming in C#\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.pdb
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.csproj.CoreCompileInputs.cache
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.AssemblyInfoInputs.cache
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\DifferentTypeOfClass\ExOfStaticClass\ExOfStaticClass\obj\Debug\netcoreapp2.2\ExOfStaticClass.AssemblyInfo.cs

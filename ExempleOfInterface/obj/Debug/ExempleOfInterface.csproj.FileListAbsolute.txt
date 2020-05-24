@@ -1,0 +1,12 @@
+C:\Shahin\C#\Exemple\ExempleOfInterface\bin\Debug\ExempleOfInterface.exe.config
+C:\Shahin\C#\Exemple\ExempleOfInterface\bin\Debug\ExempleOfInterface.exe
+C:\Shahin\C#\Exemple\ExempleOfInterface\bin\Debug\ExempleOfInterface.pdb
+C:\Shahin\C#\Exemple\ExempleOfInterface\obj\Debug\ExempleOfInterface.csproj.CoreCompileInputs.cache
+C:\Shahin\C#\Exemple\ExempleOfInterface\obj\Debug\ExempleOfInterface.exe
+C:\Shahin\C#\Exemple\ExempleOfInterface\obj\Debug\ExempleOfInterface.pdb
+D:\C#\Exemple\ExempleOfInterface\bin\Debug\ExempleOfInterface.exe.config
+D:\C#\Exemple\ExempleOfInterface\bin\Debug\ExempleOfInterface.exe
+D:\C#\Exemple\ExempleOfInterface\bin\Debug\ExempleOfInterface.pdb
+D:\C#\Exemple\ExempleOfInterface\obj\Debug\ExempleOfInterface.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\ExempleOfInterface\obj\Debug\ExempleOfInterface.exe
+D:\C#\Exemple\ExempleOfInterface\obj\Debug\ExempleOfInterface.pdb

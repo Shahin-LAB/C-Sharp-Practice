@@ -1,0 +1,7 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\UnitTestCallWebService\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\UnitTestCallWebService\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\UnitTestCallWebService\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\UnitTestCallWebService\bin\Debug\UnitTestCallWebService.dll
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\UnitTestCallWebService\Debug\UnitTestCallWebService.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\UnitTestCallWebService\Debug\UnitTestCallWebService.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\UnitTestCallWebService\Debug\UnitTestCallWebService.dll

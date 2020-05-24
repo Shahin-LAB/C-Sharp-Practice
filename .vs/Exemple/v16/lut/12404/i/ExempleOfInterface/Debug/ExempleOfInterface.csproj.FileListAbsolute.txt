@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfInterface\bin\Debug\ExempleOfInterface.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfInterface\bin\Debug\ExempleOfInterface.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfInterface\Debug\ExempleOfInterface.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfInterface\Debug\ExempleOfInterface.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ExempleOfInterface\Debug\ExempleOfInterface.exe

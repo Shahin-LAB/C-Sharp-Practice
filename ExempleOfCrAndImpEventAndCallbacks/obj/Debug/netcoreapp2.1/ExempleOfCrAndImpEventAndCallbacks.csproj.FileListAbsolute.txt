@@ -1,0 +1,44 @@
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.deps.json
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.json
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.dev.json
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csprojAssemblyReference.cache
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csproj.CoreCompileInputs.cache
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfoInputs.cache
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfo.cs
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+C:\Shahin\Innofactor\Exam 70-483-Programming in C#\LAB-70-483-C#\1.ManageProgramFlow\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.deps.json
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.json
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.dev.json
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csproj.CoreCompileInputs.cache
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfoInputs.cache
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfo.cs
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+C:\Users\shahin.rohman\Dropbox\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.deps.json
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.json
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.dev.json
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csprojAssemblyReference.cache
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csproj.CoreCompileInputs.cache
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfoInputs.cache
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfo.cs
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+C:\Shahin\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.deps.json
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.json
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.runtimeconfig.dev.json
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\bin\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfoInputs.cache
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.AssemblyInfo.cs
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.dll
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.pdb
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.genruntimeconfig.cache
+D:\C#\Exemple\ExempleOfCrAndImpEventAndCallbacks\obj\Debug\netcoreapp2.1\ExempleOfCrAndImpEventAndCallbacks.csprojAssemblyReference.cache

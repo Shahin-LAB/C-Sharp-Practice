@@ -1,0 +1,6 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\MutipelClassInheritanceUsingInterface\bin\Debug\MutipelClassInheritanceUsingInterface.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\MutipelClassInheritanceUsingInterface\bin\Debug\MutipelClassInheritanceUsingInterface.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MutipelClassInheritanceUsingInterface\Debug\MutipelClassInheritanceUsingInterface.csprojAssemblyReference.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MutipelClassInheritanceUsingInterface\Debug\MutipelClassInheritanceUsingInterface.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MutipelClassInheritanceUsingInterface\Debug\MutipelClassInheritanceUsingInterface.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\MutipelClassInheritanceUsingInterface\Debug\MutipelClassInheritanceUsingInterface.exe

@@ -1,0 +1,6 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\Array\DiffArrayExemple\bin\Debug\DiffArrayExemple.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\Array\DiffArrayExemple\bin\Debug\DiffArrayExemple.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DiffArrayExemple\Debug\DiffArrayExemple.csprojAssemblyReference.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DiffArrayExemple\Debug\DiffArrayExemple.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DiffArrayExemple\Debug\DiffArrayExemple.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\DiffArrayExemple\Debug\DiffArrayExemple.exe

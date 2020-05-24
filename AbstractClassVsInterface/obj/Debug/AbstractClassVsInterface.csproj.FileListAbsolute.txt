@@ -1,0 +1,6 @@
+D:\C#\Exemple\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\AbstractClassVsInterface\bin\Debug\AbstractClassVsInterface.exe.config
+D:\C#\Exemple\AbstractClassVsInterface\bin\Debug\AbstractClassVsInterface.exe
+D:\C#\Exemple\AbstractClassVsInterface\bin\Debug\AbstractClassVsInterface.pdb
+D:\C#\Exemple\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.exe
+D:\C#\Exemple\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.pdb

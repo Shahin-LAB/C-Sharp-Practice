@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfGenericT\ReusabileClass\bin\Debug\ReusabileClass.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\ExempleOfGenericT\ReusabileClass\bin\Debug\ReusabileClass.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ReusabileClass\Debug\ReusabileClass.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ReusabileClass\Debug\ReusabileClass.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\ReusabileClass\Debug\ReusabileClass.exe

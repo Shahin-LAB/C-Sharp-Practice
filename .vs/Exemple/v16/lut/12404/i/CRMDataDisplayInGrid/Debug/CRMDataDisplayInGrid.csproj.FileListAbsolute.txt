@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\CRMDataDisplayInGrid\Debug\CRMDataDisplayInGrid.csprojAssemblyReference.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\CRMDataDisplayInGrid\Debug\CRMDataDisplayInGrid.Frm_DataManagement.resources
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\CRMDataDisplayInGrid\Debug\CRMDataDisplayInGrid.Properties.Resources.resources
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\CRMDataDisplayInGrid\Debug\CRMDataDisplayInGrid.csproj.GenerateResource.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\CRMDataDisplayInGrid\Debug\CRMDataDisplayInGrid.csproj.CoreCompileInputs.cache

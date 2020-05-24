@@ -1,0 +1,5 @@
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\b\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\AsyncAwait\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\AsyncAwait\Debug\AsyncAwait.csproj.CopyComplete
+D:\C#\Exemple\.vs\Exemple\v16\lut\0\i\AsyncAwait\Debug\AsyncAwait.exe

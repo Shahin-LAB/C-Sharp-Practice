@@ -1,0 +1,6 @@
+D:\C#\Exemple\DifferendSort\bin\Debug\DifferendSort.exe.config
+D:\C#\Exemple\DifferendSort\bin\Debug\DifferendSort.exe
+D:\C#\Exemple\DifferendSort\bin\Debug\DifferendSort.pdb
+D:\C#\Exemple\DifferendSort\obj\Debug\DifferendSort.csproj.CoreCompileInputs.cache
+D:\C#\Exemple\DifferendSort\obj\Debug\DifferendSort.exe
+D:\C#\Exemple\DifferendSort\obj\Debug\DifferendSort.pdb
